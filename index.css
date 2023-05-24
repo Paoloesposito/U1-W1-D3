@@ -1,19 +1,51 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
-.container {margin-left: auto;
-     margin-right:auto ;
-     width: 50%;}
+header {
+  text-align: center;
+}
+header p {
+  background-color: rgba(254, 232, 175, 255);
+}
+p span {
+  font-weight: 900;
+}
+h1 {
+  text-align: center;
+  font-size: 45px;
+}
 
-header {text-align: center;}
-header p {background-color:rgba(254,232,175,255);}
+body {
+  font-family: "Playfair", serif;
+}
 
-h1 {text-align: center;
-font-size: 45px;}
+.image {
+  margin-left: auto;
+  margin-right: auto;
+}
 
-body {font-family: 'Playfair', serif;;}
+.image p {
+  color: gray;
+}
+.featured {
+  color: chocolate;
+  margin-bottom: 0%;
+}
 
-.image{margin-left: auto;
-    margin-right: auto;}
+.featuredbottom {
+  margin-top: 0%;
+}
 
-.image p {color: gray;}
+hr {
+  color: aqua;
+}
 
-hr {color: aqua;}
+.recipe p {
+  font-weight: 900;
+}
+.method li {
+  font-weight: 900;
+}
