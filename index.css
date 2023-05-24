@@ -30,7 +30,16 @@ body {
 .image p {
   color: gray;
 }
+
 .featured {
+  border-left: 2px;
+  border-style: solid;
+  border-bottom: none;
+  border-right: none;
+  border-top: none;
+  border-color: rgba(255, 235, 187, 255);
+}
+.featuredup {
   color: chocolate;
   margin-bottom: 0%;
 }
