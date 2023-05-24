@@ -1,0 +1,19 @@
+
+.container {margin-left: auto;
+     margin-right:auto ;
+     width: 50%;}
+
+header {text-align: center;}
+header p {background-color:rgba(254,232,175,255);}
+
+h1 {text-align: center;
+font-size: 45px;}
+
+body {font-family: 'Playfair', serif;;}
+
+.image{margin-left: auto;
+    margin-right: auto;}
+
+.image p {color: gray;}
+
+hr {color: aqua;}
